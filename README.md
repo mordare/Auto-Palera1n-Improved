@@ -5,7 +5,7 @@
 <blockquote>
 <ul>
 <li>15.0 to 16.3b</li>
-<li>iPhones with a8 - a11</li>
+<li>iPhones with A9 - A11</li>
 </ul>
 </blockquote>
 
