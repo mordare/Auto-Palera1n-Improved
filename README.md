@@ -11,13 +11,15 @@
 
 <h4>How to install?, simple follow these commands below:</h4>
 
-1.<pre>sudo apt-get install git -y</pre>
+0.<pre>sudo -sH</pre>
+
+1.<pre>apt-get install git -y</pre>
 
 2.<pre>git clone https://github.com/mordare/Auto-Palera1n-Improved</pre>
 
 3.<pre>cd Auto-Palera1n-Improved</pre>
 
-4.<pre>sudo chmod 777 palera1n_install.sh</pre>
+4.<pre>chmod 777 palera1n_install.sh</pre>
 
 5.<pre>./palera1n_install.sh</pre>
 
