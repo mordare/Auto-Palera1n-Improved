@@ -17,7 +17,7 @@
 
 3.<pre>cd Auto-Palera1n-Improved</pre>
 
-4.<pre>chmod 777 palera1n_install.sh</pre>
+4.<pre>sudo chmod 777 palera1n_install.sh</pre>
 
 5.<pre>./palera1n_install.sh</pre>
 
