@@ -28,7 +28,7 @@
 6.<pre>cd palera1n</pre>
 
 7.<pre>./palera1n.sh --tweaks YOUR_IOS_VERSION</pre>
-<h4>Examples <code>./palera1n.sh --tweaks 16.1</code> OR <code>./palera1n.sh --tweaks 16.1 --semi-tethered</code> to semi tethered.</h4>
+<h4>Examples <code>./palera1n.sh --tweaks 16.1</code> OR <code>./palera1n.sh --tweaks 16.1 --semi-tethered</code> for semi tethered.</h4>
 
 <h4>After that follow palera1n procedures.</h4>
 
