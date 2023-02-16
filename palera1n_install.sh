@@ -52,7 +52,9 @@ sudo ./autogen.sh >/dev/null 2>&1 && \
 	sudo make -s >/dev/null 2>&1 && \
 	sudo make install -s
 
-cd .. && rm -rf liggeneral/
+cd .. && rm -rf libgeneral/
+
+clear
 
 echo "[*] Downloading usbmuxd2..."
 git clone https://github.com/tihmstar/usbmuxd2 --quiet && \
